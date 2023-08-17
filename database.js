@@ -1,5 +1,5 @@
 require('dotenv').config();
-console.log('Loaded .env file:', );
+console.log('Loaded .env file:', process.env.MONGO_URI );
 const mongoose = require('mongoose');
 
 const mongooseOptions = {
