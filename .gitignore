@@ -3,3 +3,7 @@
 
 master-key.txt
 data-key.txt
+
+.idea
+
+node_modules/
